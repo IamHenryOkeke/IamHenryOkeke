@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamHenryOkeke
+- 👋 Hi, I’m Henry Okeke
 - 👀 I’m interested in building live changing projects
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any web and blockchain development related project
