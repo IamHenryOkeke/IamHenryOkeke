@@ -7,15 +7,19 @@
 
 - 👯 I’m looking to collaborate on **Web and Blockchain related projects**
 
-- 💬 Ask me about **React, TailwindCSS and JavaScript**
+- 💬 Ask me about **React, TailwindCSS, Redux and JavaScript**
 
 - 📫 How to reach me **Iamhenryokeke@gmail.com**
 
-- ⚡ Fun fact **I'm a Culer 🔵🔴 and Messi is the 🐐**
+- 📃 Check out my resume [https://docs.google.com/document/d/16n3yH9aEHrCy8Z_51izY5OJmgcsAM9RlXj-AK5C5xEw/edit?usp=drivesdk](https://docs.google.com/document/d/16n3yH9aEHrCy8Z_51izY5OJmgcsAM9RlXj-AK5C5xEw/edit?usp=drivesdk)
+
+- ⚡ Fun fact: **I'm a Culer 🔵🔴 and Messi is the 🐐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nmesomahenry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmesomahenry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/henry-okeke-3176481a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henry-okeke-3176481a9" height="30" width="40" /></a>
+<a href="https://discord.gg/NmesomaHenry#7080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NmesomaHenry#7080" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
