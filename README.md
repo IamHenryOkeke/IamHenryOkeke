@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **Iamhenryokeke@gmail.com**
 
+- 🌐 Check out my portfolio website:
+[Click here👈](https://nmesomahenry.vercel.app)
+
 - 📃 Check out my resume [https://docs.google.com/document/d/16n3yH9aEHrCy8Z_51izY5OJmgcsAM9RlXj-AK5C5xEw/edit?usp=drivesdk](https://docs.google.com/document/d/16n3yH9aEHrCy8Z_51izY5OJmgcsAM9RlXj-AK5C5xEw/edit?usp=drivesdk)
 
 - ⚡ Fun fact: **I'm a Culer 🔵🔴 and Messi is the 🐐**
